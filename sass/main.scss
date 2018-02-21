@@ -1,0 +1,39 @@
+.card-wrapper {
+  width: 30%;
+  float: left;
+  text-align: center;
+  position: relative;
+}
+
+.card-wrapper:nth-child(1), .card-wrapper:nth-child(2) {
+  margin-right: 10px;
+}
+
+.cake-soldout {
+  position: absolute;
+  bottom: 50%;
+  left: 5%;
+  font-size: 300%;
+  font-weight: 600;
+  line-height: 100%;
+  color: red;
+  text-shadow: 3px 2px 2px pink;
+
+}
+
+.card-img {
+  width: 90%;
+  height: 200px;
+  margin: 0 auto;
+  background-size: cover;
+}
+
+.card-copy {
+  text-align: left;
+  padding: 0 5%;
+}
+
+.is-clicked {
+  border-width: 5px !important;
+  background-color: lightsteelblue;
+}

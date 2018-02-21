@@ -1,0 +1,4 @@
+dist/
+css/
+lib/node_modules
+lib/.sass-cache
