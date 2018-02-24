@@ -1,4 +1,4 @@
-# Handlebars and Firebase - Yum!
+# Cupcakes and Firebase - Yum!
 Demo from class. Includes: browserify, grunt, and firebase calls.
 
 ## Goals
